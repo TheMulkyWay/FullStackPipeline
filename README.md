@@ -21,5 +21,11 @@ After all if its new to you there's a likelyhood that you'd be nervous and would
 want to screw things up for the team; so "Safe integration" would be a better way of introducing new team memebers
 who are also new to Github and Continuous Integration.
 
+## Practice areas
+Thats what these user Id's are used for, here and in other repositories e.g. github/John-Mulkearns and github/websitio
+where you'll also find seperate (not forked) copies that are available for different scenarios
+
+## Build Scenarios
+As per normal any change to the repo (you can decide which branch) will trigger the build pipeline on Azure
 
 
